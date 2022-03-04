@@ -1,0 +1,61 @@
+
+header {
+    background-color: #127D9A;
+    height: 5px;
+    width: flex;
+    padding-top: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 60px;
+    
+}
+
+.heading {
+    color: black;
+    font-family: 'Rubik', 'consolas', 'Courier New', Courier, monospace;
+    padding-top: 0px;
+    padding-left: 40%;
+    padding-right: 40%;
+    padding-bottom: 0px;
+}
+
+.body {
+    color: #00afcb;
+    font-family: 'Montesserat', 'Monospace';
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+}
+
+footer {
+    background-color: #127D9A;
+    height: 1px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left:0;
+}
+
+
+
+.list  {
+    margin-left:30px;
+
+
+}
+
+.link:hover {
+    background-color: #666666;
+} 
+
+.button {
+    color: #00afcb
+}
+
+
+
